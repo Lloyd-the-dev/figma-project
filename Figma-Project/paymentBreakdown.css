@@ -39,6 +39,9 @@
   color: #F2994A;
   font-family: 'Product Sans';
 }
+.illing-info{
+  display: none;
+}
 .confirm-payment{
   margin-top: -54px;
   font-weight: 700;
