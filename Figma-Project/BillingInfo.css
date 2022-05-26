@@ -1,0 +1,444 @@
+/*style for the arrow image */
+.arrow-image{
+  position: absolute;
+  height: 8px;
+  width: 11px;
+  margin-top: 69px;
+  margin-left: 1301px;
+}
+/*style for the background design*/
+.background{
+  height: 880.5px;
+  width: 1361px;
+  margin-top: -20px;
+  margin-left: -20px;
+}
+.first-text{
+  font-size: 36px;
+  color:  #4E598C;
+  margin-top: -700px;
+  margin-left: 358px;
+  margin-bottom: 59px;
+  font-weight: 700;
+  font-family: 'Product Sans';
+}
+.personal-info{
+  margin-top: -8px;
+  margin-left: 360px;
+  font-size: 24px;
+  color: #BDBDBD;
+  font-family: 'Product Sans';
+  font-weight: 700;
+}
+.billing-info{
+  margin-top: -54px;
+  font-weight: 700;
+  margin-left: 600px;
+  margin-bottom: 27px;
+  font-size: 24px;
+  color: #F2994A;
+  font-family: 'Product Sans';
+}
+.confirm-payment{
+  margin-top: -54px;
+  font-weight: 700;
+  margin-left: 820px;
+  margin-bottom: 27px;
+  font-size: 24px;
+  color: #BDBDBD;
+  font-family: 'Product Sans';
+}
+.rectangle-501{
+  margin-left: 580px;
+  margin-top: -2px;
+  height: 13px;
+  width: 170px;
+  background: #F2994A;
+  border-radius: 10px;
+  position: absolute;
+}
+.line-73{
+  margin-top: 4px;
+  position: absolute;
+  height: 0px;
+  margin-left: 360px;
+  width: 680px;
+  border: 1px solid #000000;
+}
+/*style for form that accepts customer's  card details */
+.name-on-card{
+  margin-left: 360px;
+  margin-top: 108px;
+  font-family: Product Sans;
+  font-size: 20px;
+  font-weight: 700;
+  color: #000000;
+}
+.rectangle-494{
+  padding-bottom: 17px;
+  margin-top: 3px;
+  margin-left: 360px;
+  height: 64px;
+  width: 710px;
+  box-sizing: border-box;
+  position: absolute;
+  background: #FFFFFF;
+  border: 1px solid #4E598C;
+  border-radius: 10px;
+}
+::placeholder{
+  margin-bottom: 17px;
+  margin-top: 17px;
+  margin-left: 27px;
+  height: 30px;
+  width: 100%;
+  font-weight: 400;
+  position: absolute;
+  font-family: 'Product Sans';
+  font-size: 20px;
+  color: #4F4F4F;
+}
+.asterik{
+  margin-left: 491px;
+  margin-top: -50px;
+  font-family: 'Product Sans';
+  font-weight: 700;
+  font-size: 20px;
+  color: #EB5757;
+}
+.card-type{
+  margin-left: 360px;
+  margin-top: 148px;
+  font-family: Product Sans;
+  font-size: 20px;
+  font-weight: 700;
+  color: #000000;
+}
+.rectangle-502{
+  padding-bottom: 17px;
+  margin-top: 3px;
+  margin-left: 360px;
+  height: 64px;
+  width: 710px;
+  box-sizing: border-box;
+  position: absolute;
+  background: #FFFFFF;
+  border: 1px solid #4E598C;
+  border-radius: 10px;
+}
+.asterik-2{
+  margin-left: 455px;
+  margin-top: -45px;
+  font-family: 'Product Sans';
+  font-weight: 700;
+  font-size: 20px;
+  color: #EB5757;
+}
+.card-details{
+  margin-left: 360px;
+  margin-top: 148px;
+  font-family: Product Sans;
+  font-size: 20px;
+  font-weight: 700;
+  color: #000000;
+}
+.rectangle-495{
+  margin-left: 360px;
+  padding-bottom: 17px;
+  width: 391px;
+  height: 64px;
+  box-sizing: border-box;
+  position: absolute;
+  background: #FFFFFF;
+  border: 1px solid #4E598C;
+  border-radius: 10px;
+}
+.asterik-3{
+  margin-left: 470px;
+  margin-top: -45px;
+  font-family: 'Product Sans';
+  font-weight: 700;
+  font-size: 20px;
+  color: #EB5757;
+}
+.expiry-date{
+  margin-left: 799px;
+  margin-top: -41px;
+  font-family: Product Sans;
+  font-size: 20px;
+  font-weight: 700;
+  color: #000000;
+}
+.rectangle-496{
+  margin-left: 790px;
+  padding-bottom: 17px;
+  width: 132px;
+  height: 64px;
+  box-sizing: border-box;
+  position: absolute;
+  background: #FFFFFF;
+  border: 1px solid #4E598C;
+  border-radius: 10px;
+}
+.asterik-4{
+  margin-left: 907px;
+  margin-top: -45px;
+  font-family: 'Product Sans';
+  font-weight: 700;
+  font-size: 20px;
+  color: #EB5757;
+}
+.cvv{
+  margin-left: 997px;
+  margin-top: -41px;
+  font-family: Product Sans;
+  font-size: 20px;
+  font-weight: 700;
+  color: #000000;
+}
+.rectangle-497{
+  margin-left: 970px;
+  color: #000000;
+  padding-bottom: 17px;
+  width: 104px;
+  height: 64px;
+  box-sizing: border-box;
+  position: absolute;
+  background: #FFFFFF;
+  border: 1px solid #4E598C;
+  border-radius: 10px;
+}
+.asterik-5{
+  margin-left: 1045px;
+  margin-top: -45px;
+  font-family: 'Product Sans';
+  font-weight: 700;
+  font-size: 20px;
+  color: #EB5757;
+}
+.rectangle-497::placeholder{
+  margin-bottom: 17px;
+  margin-top: 17px;
+  margin-left: 27px;
+  height: 30px;
+  width: 100%;
+  font-weight: 700;
+  position: absolute;
+  font-family: 'Product Sans';
+  font-size: 20px;
+  color: #000000;
+}
+.rectangle-498{
+  margin-top: 150px;
+  margin-left: 360px;
+  border: none;
+  height: 58px;
+  width: 238px;
+  background: linear-gradient(180deg, #F2C94C 0%, #F2994A 100%);
+  border-radius: 10px;
+}
+.next{
+  margin-top: -62px;
+  margin-left: 450px;
+  font-family: Product Sans;
+  font-size:   20px;
+  font-weight: 700;
+  color: #F7F7FF;
+}
+.cancel-payment{
+  margin-top: -50px;
+  margin-left: 700px;
+  font-family: 'Product Sans';
+  font-weight: 700;
+  font-size: 20px;
+  color: #4E598C;
+}
+.bottom{
+  margin-top: 150px;
+}
+/* For screen Sizes of 1440px and above */
+@media screen and (min-width: 1440px) {
+  .background{
+    height: 880.5px;
+    width: 1446px;
+    margin-top: -20px;
+    margin-left: -20px;
+  }
+  .arrow-image{
+    position: absolute;
+    height: 8px;
+    width: 11px;
+    margin-top: 69px;
+    margin-left: 1331px;
+  }
+}
+@media screen and (max-width:600px) {
+  .background{
+    display: none;
+  }
+  .arrow-image{
+    display: none;
+  }
+  .rectangle-486{
+    margin-top: -1120px;
+    margin-left: -7.6px;
+    height: 90px;
+    width: 100%;
+    position: absolute;
+    background: #FFFFFF;
+    box-shadow: 0px 6px 10px rgba(33, 30, 67, 0.08);
+    box-shadow: 0px 6px 10px 0px #211E4314;
+  }
+  .line-1{
+    margin-left: 374px;
+    margin-top: -1102px;
+    width: 36px;
+    position: absolute;
+    border: 3px solid #000000;
+  }
+  .line-2{
+    margin-left: 374px;
+    margin-top: -1087px;
+    width: 30px;
+    position: absolute;
+    border: 3px solid #000000;
+  }
+  .line-3{
+    margin-left: 374px;
+    margin-top: -1072px;
+    width: 17px;
+    position: absolute;
+    border: 3px solid #000000;
+  }
+  .first-text{
+    margin-top: -251px;
+    margin-left: 31px;
+    font-family: Product Sans;
+    font-size: 28px;
+    font-weight: 700;
+    position: absolute;
+    color: #4E598C;
+  }
+  .personal-info{
+    margin-left: 31px;
+    margin-top: -161px;
+    position: absolute;
+    font-family: 'Product Sans';
+    font-weight: 700;
+    font-size: 20px;
+    color: #F2994A;
+  }
+  .billing-info{
+    margin-top: -161px;
+    margin-left: 245px;
+    white-space: nowrap;
+    font-family: Product Sans;
+    font-size: 20px;
+    font-weight: 700;
+    position: absolute;
+    color: #BDBDBD;
+  }
+  .confirm-payment{
+    display: none;
+  }
+  .rectangle-501{
+    margin-top: -83px;
+    margin-left: 230px;
+    width: 118px;
+    height: 13px;
+    border-radius: 10px;
+    position: absolute;
+    background: #F2994A;
+  }
+  .line-73{
+    margin-left: 31px;
+    margin-top: -77px;
+    margin-bottom: 0;
+    width: 323px;
+    position: absolute;
+    border: 1px solid #828282;
+  }
+  .name-on-card{
+    margin-top: 400px;
+    margin-left: 31px;
+  }
+  .rectangle-494{
+    margin-left: 31px;
+    width:322px;
+  }
+  .asterik{
+    margin-left: 160px;
+  }
+  .card-type{
+    margin-left: 31px;
+  }
+  .rectangle-502{
+    margin-left: 31px;
+    width: 322px;
+  }
+  .asterik-2{
+    margin-left: 124px;
+  }
+  .card-details{
+    margin-left: 31px;
+  }
+  .rectangle-495{
+    margin-left: 31px;
+    width: 322px;
+  }
+  .asterik-3{
+    margin-left: 140px;
+  }
+  ::placeholder{
+    font-size: 16px;
+    margin-top: 23px;
+    margin-left: 16px;
+    margin-right: 28px;
+    margin-bottom: 17px;
+  }
+  .expiry-date{
+    margin-left: 31px;
+    margin-top: 131px;
+  }
+  .rectangle-496{
+    margin-left: 31px;
+    width: 153px;
+  }
+  .asterik-4{
+    margin-left: 140px;
+  }
+  .cvv{
+    margin-left: 260px;
+  }
+  .rectangle-497{
+    margin-left: 260px;
+  }
+  .asterik-5{
+    margin-left: 315px;
+  }
+  .rectangle-498{
+    width: 322px;
+    margin-left: 31px;
+  }
+  .next{
+    margin-left: 171px;
+  }
+  .rectangle-46{
+    margin-left: 31px;
+    margin-top: 30px;
+    height: 62px;
+    box-sizing: border-box;
+    position:absolute;
+    width: 325px;
+    border: 1px solid #4E598C;
+    border-radius: 10px;
+  }
+  .cancel-payment{
+    margin-top: 30px;
+    margin-left: 112px;
+    position: absolute;
+  }
+  .bottom{
+    margin-top: 150px;
+  }
+}
